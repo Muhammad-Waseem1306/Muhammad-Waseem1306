@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Muhammad Waseem
-- I'm a student at the University of Narowal
-- I'm particularly interested in projects related to Python, data science, machine learning, and web development
+- Student at the University of Narowal
+- Android Developer & Kotlin Enthusiast
+- Particularly interested in projects related to Android Development.
+
 
 
 <!---
