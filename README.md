@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Muhammad Waseem
-- Student at the University of Narowal
-- Android Developer & Kotlin Enthusiast
-- Particularly interested in projects related to Android Development.
+- I hold a Bachelor's Degree in Computer Science and specialize as an Android Developer with a strong focus on Kotlin.
+- With hands-on experience in creating innovative, scalable, and user-friendly mobile applications, I am particularly interested in finance and productivity projects.
+- My work involves integrating Firebase solutions, crafting intuitive UI/UX, and enhancing app performance.
+- Let's build great apps together!
 
 
 
